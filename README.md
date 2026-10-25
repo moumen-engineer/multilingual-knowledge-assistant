@@ -17,17 +17,18 @@ about PDF documents in English, French, and Arabic.
 - Automated tests and evaluation tools
 
 ## Architecture
-Explain the document ingestion, retrieval, and
-generation pipeline.
+
 
 ## Requirements
-List Python, Ollama, and model requirements.
+Python, Ollama, and model requirements.
 
 ## Installation
-Explain environment setup and dependency installation.
+environment setup and dependency installation.
 
 ## Usage
-Show how to launch the backend and frontend.
+how to launch the backend and frontend.
+(for now you can just run the AI chat with : docker compose up)
+(to create the image u should run the command : docker compose build)
 
 ## Evaluation
 Document the dataset, metrics, and actual results.
